@@ -1,0 +1,2 @@
+R0,class=com.oat.domains.tsp.TSPProblem:ProblemFilename=tsp/ulysses22.tsp:SolutionFilename=tsp/ulysses22.opt.tour,class=com.oat.domains.tsp.algorithms.immune.CLONALG:SelectionSize=50:MutateFactor=2.5:CloneFactor=0.1:Seed=1541076143196:RandomReplacements=5:PopulationSize=50,30
+R1,class=com.oat.domains.tsp.TSPProblem:ProblemFilename=tsp/ulysses22.tsp:SolutionFilename=tsp/ulysses22.opt.tour,class=com.oat.domains.tsp.algorithms.immune.CLONALGT:SelectionSize=50:MutateFactor=2.5:CloneFactor=0.1:Seed=1541076143196:RandomReplacements=5:PopulationSize=50,30

@@ -1,0 +1,6 @@
+#Tue Nov 13 20:15:16 CET 2018
+name=CLONALG
+stopcondition=class\=com.oat.stopcondition.LackOfImprovementStopCondition\:WindowSize\=10000
+description=CLONAL
+runstatistics=com.oat.probes.BestScoreProbe\:com.oat.probes.RunTimeMillisProbe\:com.oat.probes.TotalEvaluationsProbe
+domain=com.oat.domains.tsp.TSPDomain
